@@ -1,15 +1,1 @@
-/* Заглушка ALTER EGO: изображение заполняет всё окно браузера. */
-* { box-sizing: border-box; }
-html, body { width: 100%; min-height: 100%; margin: 0; }
-body { background: #121116; }
-
-.placeholder {
-  width: 100%;
-  min-height: 100vh;
-  min-height: 100dvh;
-  background-image: url("./alter-ego-screen.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
